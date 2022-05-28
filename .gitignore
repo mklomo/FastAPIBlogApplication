@@ -1,0 +1,7 @@
+__pycache__
+
+.fastapi_venv
+
+.DS_Store
+
+*.env
